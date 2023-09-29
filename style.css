@@ -1,0 +1,61 @@
+
+body {
+  background-image: url(background.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+
+  }
+
+  .background{
+    background-color:rgba(0, 0, 0, 0.5);
+    margin: 40px;
+    border-radius: 30px;
+    padding: 100px;
+    text-align: center;
+    color:white;
+    font-size: 25px;
+    font-family:sans-serif;
+  }
+
+img{
+  width: 300px;
+  height:auto;
+}
+
+h1{
+  color: lime;
+  font-family:sans-serif;
+  font-size: 50px;
+}
+
+#button{
+  background-color: lime;
+  height: 30px;
+  padding: 10px;
+}
+
+#container{
+  text-align: left;
+  margin-top: 40px;
+}
+
+.rettangolo1{
+height: 30px;
+width: 500px;
+border-radius: 10px;
+background-color: orange;
+}
+
+.rettangolo2{
+height: 30px;
+width: 1000px;
+border-radius: 10px;
+background-color: green;
+}
+
+.rettangolo3{
+height: 30px;
+width: 200px;
+border-radius: 10px;
+background-color: red;
+}
